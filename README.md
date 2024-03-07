@@ -1,6 +1,8 @@
 
 ## 1- Project Title : Bunyan Game
-https://github.com/manaralmashi/BunyanGame/assets/162150042/b8af9671-49ef-4201-93e0-ad2fedf4d438
+<video width="320" height="240" autoplay loop muted>
+  <source src="https://github.com/manaralmashi/BunyanGame/assets/162150042/b8af9671-49ef-4201-93e0-ad2fedf4d438" type="video/mp4">
+</video>
 
 ## 2- Project Idea and Project Aims :
 * ### Idea of the project:
