@@ -1,5 +1,6 @@
 
 ## 1- Project Title : Bunyan Game
+https://github.com/manaralmashi/BunyanGame/assets/162150042/9a79f83d-acaa-435c-9678-2578edc83c04
 
 ## 2- Project Idea and Project Aims :
 * ### Idea of the project:
@@ -24,5 +25,3 @@ rate of enthusiasm when playing
 * Lamis Mohammed 
 * Rahaf Al-Mehdar 
 * Shahd Al-Thobaiti
-
-https://github.com/manaralmashi/BunyanGame/assets/162150042/9a79f83d-acaa-435c-9678-2578edc83c04
