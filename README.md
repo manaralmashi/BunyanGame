@@ -1,7 +1,6 @@
 
 ## 1- Project Title : Bunyan Game
-![UI](https://github.com/manaralmashi/BunyanGame/assets/162150042/1a0b57fc-a6d6-460a-a06e-4bd675561eae)
-
+![UI](https://github.com/manaralmashi/BunyanGame/assets/162150042/49a600e0-97ef-4b17-a055-94cb6e8bd540)
 ![UIs](https://github.com/manaralmashi/BunyanGame/assets/162150042/89317f21-4a89-48de-af64-e75229878d78)
 
 ## 2- Project Idea and Project Aims :
