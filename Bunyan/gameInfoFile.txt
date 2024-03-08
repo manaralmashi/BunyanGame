@@ -1,0 +1,13 @@
+The house that needs to be
+built has three floors, each
+floor has a different game 
+that you must complete by 
+collecting coins (which 
+help you in building),
+and trees (which beautify
+the house).
+
+How interactive you are
+and your build quality
+determines your ranking
+on the leaderboard.
