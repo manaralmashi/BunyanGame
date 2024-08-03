@@ -28,7 +28,7 @@ rate of enthusiasm when playing
 
 ### 3- Project Documentation
 * #### Demo Video :
-You can find the demo video [here](./Demo_video).
+You can find the demo video [here](./Demo).
 
 * #### Screenshots :
 Screenshots of each page are available in the [screenshots](./screenshots) folder.
